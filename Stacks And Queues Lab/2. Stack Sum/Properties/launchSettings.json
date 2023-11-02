@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "2. Stack Sum": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Windows\\System32\\cmd.exe"
+    }
+  }
+}
